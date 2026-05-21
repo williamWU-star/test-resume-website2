@@ -1,0 +1,6 @@
+{
+  "name": "Personal Website",
+  "description": "A highly customizable, fast personal portfolio template optimized for static hosting via GitHub Pages. Features dynamic color modes and a visual sandbox content editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
